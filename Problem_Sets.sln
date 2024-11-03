@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Quest_One", "1_Quest_One\1_Quest_One.csproj", "{9BB71CBB-2740-484E-A27D-CCBBD47A7A84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_Quest_One", "1_Quest_One\1_Quest_One.csproj", "{9BB71CBB-2740-484E-A27D-CCBBD47A7A84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Quest_Two", "2_Quest_Two\2_Quest_Two.csproj", "{6E587E99-D9F2-4634-AFA0-EBDD7351C95B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_Quest_Two", "2_Quest_Two\2_Quest_Two.csproj", "{6E587E99-D9F2-4634-AFA0-EBDD7351C95B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Quest_Three", "3_Quest_Three\3_Quest_Three.csproj", "{5A973099-F270-45D4-91E7-CB0FC70B4BFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_Quest_Three", "3_Quest_Three\3_Quest_Three.csproj", "{5A973099-F270-45D4-91E7-CB0FC70B4BFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Quest_Four", "4_Quest_Four\4_Quest_Four.csproj", "{1E760542-B6B3-4C2B-A555-37150B156814}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_Quest_Four", "4_Quest_Four\4_Quest_Four.csproj", "{1E760542-B6B3-4C2B-A555-37150B156814}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Quest_Five", "5_Quest_Five\5_Quest_Five.csproj", "{9B68DD5A-E655-4B31-831A-21F055DA423D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5_Quest_Five", "5_Quest_Five\5_Quest_Five.csproj", "{9B68DD5A-E655-4B31-831A-21F055DA423D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Management System", "Library Management System\Library Management System.csproj", "{A4F4DC17-AF04-4895-87D2-354A84BAFAD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quest_6", "Quest_6\Quest_6.csproj", "{1C401D9F-B964-4F46-8389-E09F42DBF117}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{9B68DD5A-E655-4B31-831A-21F055DA423D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B68DD5A-E655-4B31-831A-21F055DA423D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B68DD5A-E655-4B31-831A-21F055DA423D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4F4DC17-AF04-4895-87D2-354A84BAFAD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F4DC17-AF04-4895-87D2-354A84BAFAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F4DC17-AF04-4895-87D2-354A84BAFAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F4DC17-AF04-4895-87D2-354A84BAFAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C401D9F-B964-4F46-8389-E09F42DBF117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C401D9F-B964-4F46-8389-E09F42DBF117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C401D9F-B964-4F46-8389-E09F42DBF117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C401D9F-B964-4F46-8389-E09F42DBF117}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
